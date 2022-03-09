@@ -56,7 +56,7 @@ Positive CT scan:
 To train the model, use the following command:
 
 ```bash
-python train.py path=covid/data epoch=100 train_batch=10 train_ct_batch=16 val_batch=8 lr=0.0001
+python train.py --path covid/data --epoch 100 --train_batch 10 --train_ct_batch 16 --val_batch 8 --lr 0.0001
 ```
 
 Optional parameters (and default values):
