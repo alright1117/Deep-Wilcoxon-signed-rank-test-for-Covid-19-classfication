@@ -12,7 +12,9 @@ The proposed method DWCC (Deep Wilcoxon signed-rank test for Covid-19 classficat
 
 Negative CT scan:
 
-![teaser](figures/neg.gif)
+<p align="center">
+  <img src="figures/neg.gif" width=50% />
+</p>
 
 Positive CT scan:
 
