@@ -13,12 +13,14 @@ The proposed method DWCC (Deep Wilcoxon signed-rank test for Covid-19 classficat
 Negative CT scan:
 
 <p align="center">
-  <img src="figures/neg.gif" width=50% />
+  <img src="figures/neg.gif" width=80% />
 </p>
 
 Positive CT scan:
 
-![teaser](figures/pos.gif)
+<p align="center">
+  <img src="figures/pos.gif" width=80% />
+</p>
 
 ### Pretrained Model
 [DWCC](https://www.dropbox.com/s/qkfy2q7a3r3kflm/DWCC.zip?dl=0)
