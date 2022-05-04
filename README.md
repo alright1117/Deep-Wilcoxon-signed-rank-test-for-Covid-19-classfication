@@ -2,7 +2,9 @@
 
 ## Overview 
 
-![teaser](figures/flowchart.png)
+<p align="center">
+  <img src="figures/flowchart.png" width=80% />
+</p>
 
 
 
